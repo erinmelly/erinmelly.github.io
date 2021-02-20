@@ -15,7 +15,7 @@ author: Erin Melly
 
 navbar-links:
   About Me: "aboutme"
-  Resume: [Intro.pdf](https://github.com/erinmelly/erinmelly.github.io/blob/master/docs/2021Resume.pdf)
+  Resume: "https://nbviewer.jupyter.org/github/erinmelly/erinmelly.github.io/blob/master/docs/2021Resume.pdf"
   Sample Projects: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
