@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Erin Melly
 
 # Your name to show in the footer
-author: Some Person
+author: Erin Melly
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - CV: "https://beautifuljekyll.com"
+    - Sample Projects: "https://www.markdowntutorial.com/"
+  Author's home: "https://www.linkedin.com/in/erin-melly-49948a111/"
 
 # --- Logo --- #
 
@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /path/to/image
 
 
 # --- Footer social media links --- #
@@ -39,27 +39,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  email: "erin.e.melly@gmail.com"
+  github: erinmelly
+  linkedin: "https://www.linkedin.com/in/erin-melly-49948a111/"
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -76,8 +58,7 @@ share-links-active:
   vk: false
 
 # How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
