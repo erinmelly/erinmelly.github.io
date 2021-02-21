@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Highlighted Work
-subtitle: Coursework and Work Samples
+subtitle: Work Samples
 ---
 
 ### Mitigating Urban Heat Island Effects in Washington, DC
