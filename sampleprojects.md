@@ -24,4 +24,4 @@ subtitle: Coursework and Work Samples
 
 
 ### Analyzing the Environmental Quality Incentives Program (EQIP)
-[Reforms for Water Quality Improvements from Non-Point Sources] (https://github.com/erinmelly/erinmelly.github.io/blob/master/docs/EQUIP.pdf)
+[Reforms for Water Quality Improvements from Non-Point Sources](https://github.com/erinmelly/erinmelly.github.io/blob/master/docs/EQUIP.pdf)
