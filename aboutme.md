@@ -12,4 +12,4 @@ I am currently pursuing my Masters of Public Policy (MPP) at the Frank Batten Sc
 * In my free time, I enjoy running, crosswording and tutoring first graders.
 * I can run a mile in 4:59.
 * I found a passion for social science research when I spent a summer in Menonomie, WI researching lake pollution and toxic algae blooms. 
-* One of my most rewarding projects I worked on was a paper that suggested tax reform proposals that paired a carbon tax with other progressive tax reforms, such as changes to the EITC and CTC, to achieve both equity and climate goals.
+* One of my most rewarding projects I worked on was a paper that suggested a carbon tax paired with other progressive tax reforms, such as EITC and CTC expansion, to achieve both equity and climate goals.
